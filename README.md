@@ -58,17 +58,6 @@ Evaluated with:
 
 ---
 
-##  Visual Results
-
-| Example Output | Description |
-|:---------------:|:------------|
-| ![Sample Plot](https://github.com/ajitha-2509/ghi-prediction/assets/sample_plot.png) | Sample visualization of predicted vs actual GHI values |
-| ![Feature Importance](https://github.com/ajitha-2509/ghi-prediction/assets/feature_importance.png) | Feature importance plot from Random Forest |
-
-*(Upload your actual plots in the repository and update the image links above.)*
-
----
-
 ##  Tech Stack
 
 | Category | Tools / Libraries |
