@@ -1,4 +1,4 @@
-# ☀️ Global Horizontal Irradiance (GHI) Prediction using Machine Learning
+# Global Horizontal Irradiance (GHI) Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
@@ -9,25 +9,25 @@
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project focuses on **predicting Global Horizontal Irradiance (GHI)** — a key parameter in solar energy studies — using **machine learning techniques**.  
 It applies **data science** methods to meteorological data for forecasting solar radiation patterns, helping in **solar energy management and research**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Develop a predictive model for **solar radiation (GHI)**  
 - Use input features such as:
-  - ☀️ Maximum Temperature  
-  - 🌡️ Minimum Temperature  
-  - ☁️ Cloud Cover  
+  -  Maximum Temperature  
+  -  Minimum Temperature  
+  -  Cloud Cover  
 - Compare multiple regression algorithms to determine the most accurate one  
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1️⃣ Data Collection & Preprocessing
 - Dataset of **125 days** with **10-minute intervals**  
@@ -58,7 +58,7 @@ Evaluated with:
 
 ---
 
-## 📊 Visual Results
+##  Visual Results
 
 | Example Output | Description |
 |:---------------:|:------------|
@@ -69,7 +69,7 @@ Evaluated with:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category | Tools / Libraries |
 |-----------|------------------|
@@ -81,7 +81,7 @@ Evaluated with:
 | Domain | Meteorology, Solar Energy Prediction |
 
 ---
-## 🌦️ Domain Relevance
+##  Domain Relevance
 
 This project was conducted during my Meteorology Internship (May–Jun 2025) at the
 India Meteorological Department (IMD), where the objective was to:
@@ -91,13 +91,13 @@ Develop a reliable solar radiation prediction model
 Support renewable energy planning and atmospheric research
 
 
-## 📚 References
+##  References
 
 Hargreaves, G. H., & Samani, Z. A. (1985). Reference crop evapotranspiration from temperature. Applied Engineering in Agriculture.
 
 India Meteorological Department data archives
 
-## 👩‍💻 Author
+##  Author
 
 Ajitha Kumaravel
 🎓 M.Sc. Physics | Data Science & Meteorology Enthusiast
