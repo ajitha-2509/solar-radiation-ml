@@ -54,8 +54,6 @@ Evaluated with:
 | Linear Regression | Fair | Simple baseline |
 | SVR | Lower | Sensitive to scaling |
 
-*(Insert your actual R² / MAE / MSE values once finalized)*
-
 ---
 
 ##  Tech Stack
